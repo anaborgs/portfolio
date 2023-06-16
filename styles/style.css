@@ -120,8 +120,9 @@ body {
   margin-bottom: 1em;
 }
 .apresentacao__img {
-  width: 60%;
+  width: 40%;
   border-radius: 16px;
+  float: right;
 }
 .rodape {
   padding: 20px;
@@ -131,6 +132,7 @@ body {
   font-family: var(--fonte-principal);
   font-size: var(--tamanho-fonte);
   font-weight: 400;
+  
 }
 
 @media (max-width:1200px) {
