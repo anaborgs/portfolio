@@ -120,7 +120,7 @@ body {
   margin-bottom: 1em;
 }
 .apresentacao__img {
-  width: 40%;
+  width: 60%;
   border-radius: 16px;
 }
 .rodape {
@@ -145,6 +145,9 @@ body {
     padding: 5%;
   }
   .apresentacao__conteudo {
+    width: auto;
+  }
+  .apresentacao__conteudo__titulo {
     width: auto;
   }
   .apresentacao__links__link {
